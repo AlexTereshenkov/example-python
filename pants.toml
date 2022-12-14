@@ -69,3 +69,6 @@ org = "example-python"
 
 [buildsense]
 enable = false
+
+[python-infer]
+string_imports = true
