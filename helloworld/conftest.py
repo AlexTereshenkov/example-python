@@ -1,2 +1,2 @@
 pytest_plugins = ["helloworld.plugins.handy"]
-collect_ignore = ["translator/"]
+collect_ignore = ["translator"]
